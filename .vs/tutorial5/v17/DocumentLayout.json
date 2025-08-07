@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hasso\\source\\repos\\ICT272-Bi-Weekly2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF682EE-0CB1-4E51-8BF8-C8ED59537DFA}|tutorial5\\tutorial5.csproj|c:\\users\\hasso\\source\\repos\\ict272-bi-weekly2\\tutorial5\\views\\logpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCF682EE-0CB1-4E51-8BF8-C8ED59537DFA}|tutorial5\\tutorial5.csproj|solutionrelative:tutorial5\\views\\logpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "logPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\hasso\\source\\repos\\ICT272-Bi-Weekly2\\tutorial5\\Views\\logPage.cshtml",
+              "RelativeDocumentMoniker": "tutorial5\\Views\\logPage.cshtml",
+              "ToolTip": "C:\\Users\\hasso\\source\\repos\\ICT272-Bi-Weekly2\\tutorial5\\Views\\logPage.cshtml",
+              "RelativeToolTip": "tutorial5\\Views\\logPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-07T23:07:31.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
